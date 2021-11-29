@@ -1,0 +1,22 @@
+{
+  "name": "rivotra",
+  "version": "1.0.0",
+  "description": "Rivtotra daily staus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vallurisundeep/rivotra.git"
+  },
+  "keywords": [
+    "Rivotra"
+  ],
+  "author": "Sundeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vallurisundeep/rivotra/issues"
+  },
+  "homepage": "https://github.com/vallurisundeep/rivotra#readme"
+}
